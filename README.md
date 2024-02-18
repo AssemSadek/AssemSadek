@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AssemSadek
-- 👀 I’m interested in Artificial Intelligence and robotics applications
-- 🌱 I’m currently pursuing my PhD in the same field. 
-- 💞️ I’m looking to collaborate on building autonomous system that are able to interact seamlessly with the real-world environment.
-- 📫 How to reach me: assemsadek.com
+- 👀 I’m interested in Embodied Artificial Intelligence applications
+- 💞️ I’m looking to collaborate on new embodied applications that are able to interact seamlessly with the real-world environment.
 
 <!---
 AssemSadek/AssemSadek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
